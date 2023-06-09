@@ -1,28 +1,14 @@
 # Eskns
 
-## [Online learning platform](https://eskns.com)
+## [Machine Learning services](https://eskns.com)
 
-An upcoming online platform for learning practical and actionable skills. We offer content rich courses for the serious learner. Our initial set of courses are related
-to web development. No prior experience is necessary for the beginner level courses. However, the courses quickly become intense and you are expected to learn a lot.
-However we will be with you throughout your learning process.
+EKS, LLC offers AI/ML services based on its patent-pending and proprietary technologies for NLP, image, voice and video based applications. We can develop highly performant, custom, transformer-based multi-modal models for you. If you already have a model we can reduce its parameter counts, in most cases, so that your model trains faster and cheaper, produces results that are better and reduces total ownership costs therby making it greener.
 
-Learn web-development using reactjs and nodejs starting from the basics of HTML, CSS and JavaScript. Your skills will level-up many folds and you can expect to
-land multiple job-offers. 
+One of our patent-pending methods recast the 200-year-old linear regression model to use bounded linear computations. In anothor method we extend this approach to apply to anywhere a linear operator is used. In addition, we have a method that allows for unrestrained rotations in n-dimensional space.
 
-## Web-development, hosting and deployment
+Our method doesn't require batch normalization or layer normalization. Both batch norm and layer norm project the product of weight vectors with input vectors onto a unit ball based on the mean and variance of the products and then use scaling operators to come off the unit ball. Projecting onto a unit ball looses information that is present in the relative magnitudes of the input vectors.
 
-EKS, LLC, the company behind the [eskns](https://eskns.com) site offers web development services using the reactjs and nodejs ecosystem. Some of the packages we typically
-use are redux, immer, saga, react-router, express, redis, cassandra, postgresql, mongo among others.
+The upshot is that our method passes information better between layers, has strong convergence and stability properties.
 
-## Machine Learning services
-
-EKS, LLC offers Machine Learning services for NLP and image, voice and video based application either as stand-along Jupyter Lab-based codebases or as
-integrated web services. We focus on PyTorch and PyTorch Lightning.
-
-## Database migration to Redis
-
-Redis is emerging as a powerful primary database alternate to traditional SQL and noSQL databases. EKS, LLC offers services to migrate your existing traditional 
-databases to Redis! 
-
-## More is coming soon
+See our website for further details.
 
