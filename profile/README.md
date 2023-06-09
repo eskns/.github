@@ -10,5 +10,5 @@ Our method doesn't require batch normalization or layer normalization. Both batc
 
 The upshot is that our method passes information better between layers, has strong convergence and stability properties.
 
-See our website for further details.
+See our [website](https://eskns.com) for further details.
 
