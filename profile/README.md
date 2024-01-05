@@ -12,3 +12,10 @@ The upshot is that our method passes information better between layers, has stro
 
 See our [website](https://eskns.com) for further details.
 
+## Web3 services
+
+See our recent article on Gas-Efficient Methods for Constant-Function Automated Market Makers in DeFi on LinkedIn.
+
+We have made available a starter kit for universal web3 app development using traditional and blockchain based backends called [web3-sveltekit-bundle](https://github.com/eskns/web3-sveltekit-bundle)
+
+We will be making available Uniswap V4 hooks, our protocols and our governance token shortly.
